@@ -1,0 +1,158 @@
+.SDV-home {
+  background-color: #128345;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SDV-home .div {
+  background-color: #128345;
+  overflow: hidden;
+  width: 1440px;
+  height: 6144px;
+  position: relative;
+}
+
+.SDV-home .overlap {
+  position: absolute;
+  width: 2452px;
+  height: 4091px;
+  top: 0;
+  left: -506px;
+}
+
+.SDV-home .BG-image {
+  position: absolute;
+  width: 1440px;
+  height: 1286px;
+  top: 0;
+  left: 506px;
+}
+
+.SDV-home .rectangle {
+  position: absolute;
+  width: 522px;
+  height: 252px;
+  top: 159px;
+  left: 968px;
+  background-color: #ff6666;
+}
+
+.SDV-home .lorem-ipsum-is {
+  position: absolute;
+  width: 909px;
+  top: 508px;
+  left: 774px;
+  font-family: var(--m3-headline-large-font-family);
+  font-weight: var(--m3-headline-large-font-weight);
+  color: #000000;
+  font-size: var(--m3-headline-large-font-size);
+  letter-spacing: var(--m3-headline-large-letter-spacing);
+  line-height: var(--m3-headline-large-line-height);
+  font-style: var(--m3-headline-large-font-style);
+}
+
+.SDV-home .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 2048px;
+  top: 1024px;
+  left: 506px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(28, 24, 69, 1) 10%,
+    rgba(8, 8, 23, 1) 100%
+  );
+}
+
+.SDV-home .group {
+  position: absolute;
+  width: 2452px;
+  height: 652px;
+  top: 2198px;
+  left: 0;
+}
+
+.SDV-home .frame {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.SDV-home .rectangle-3 {
+  position: relative;
+  width: 810px;
+  height: 590px;
+  background-color: #ffdddd;
+}
+
+.SDV-home .overlap-group {
+  position: absolute;
+  width: 1106px;
+  height: 34px;
+  top: 618px;
+  left: 678px;
+  background-color: #444444;
+  border-radius: 26px;
+}
+
+.SDV-home .rectangle-4 {
+  position: relative;
+  width: 381px;
+  height: 26px;
+  top: 4px;
+  left: 10px;
+  background-color: #d9d9d9;
+  border-radius: 26px;
+}
+
+.SDV-home .img {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 3067px;
+  left: 506px;
+  object-fit: cover;
+}
+
+.SDV-home .nav-bar {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  top: 0;
+  left: 506px;
+  background-color: #128cfb;
+}
+
+.SDV-home .rectangle-5 {
+  position: absolute;
+  width: 352px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.SDV-home .rectangle-6 {
+  position: absolute;
+  width: 1440px;
+  height: 2048px;
+  top: 4096px;
+  left: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(13, 137, 251, 1) 43%,
+    rgba(8, 8, 23, 1) 100%
+  );
+}
+
+section {
+  margin: 0;
+  
+}
